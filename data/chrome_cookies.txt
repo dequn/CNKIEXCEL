@@ -1,0 +1,4 @@
+host_key:.cnki.net;name:LID;value:WEEvREcwSlJHSldRa1Fhak5oejFDb2JuQnFmQi9EaVkwdk9pSW53ZW0wRlhaUUdxYzJ0NDVBZVRmckR2MHZDeW9BPT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!
+host_key:.cnki.net;name:c_m_LinID;value:LinID=WEEvREcwSlJHSldRa1Fhak5oejFDb2JuQnFmQi9EaVkwdk9pSW53ZW0wRlhaUUdxYzJ0NDVBZVRmckR2MHZDeW9BPT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&ot=04/19/2015 08:46:16
+host_key:tongji.cnki.net;name:SID;value:009001
+host_key:tongji.cnki.net;name:ASP.NET_SessionId;value:mxjggkfojdr32i45zrcwcq45
